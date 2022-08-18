@@ -1,2 +1,4 @@
 # occam_ros2_driver
-V0 for occam driver on ros2
+First try to get acces to color images, tile image and stitched image from camera OCCAM 60
+
+Tested with ros-galactic
